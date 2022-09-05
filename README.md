@@ -51,7 +51,7 @@ Install Horizon UI by running either of the following:
 Clone the repository with the following command:
 
 ```bash
-git clone https://github.com/horizon-ui/horizon-ui-chakra.git
+https://github.com/Full-Stack-IT-Developer/admin-panel-reactjs-horizon-ui.git
 ```
 
 Run in terminal this command:
@@ -76,9 +76,8 @@ pages here.</a>
 
 ### Versions
 
-| Free Version                                                                                                       | PRO Version                                                                                                               |
+| Free Version                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
-| [![Horizon UI](https://i.ibb.co/fdyTwz1/introduction-image-2.png)](https://www.horizon-ui.com/?ref=readme-horizon) | [![Horizon UI PRO](https://i.ibb.co/R6jFKRM/introduction-image-1.png)](https://www.horizon-ui.com/pro?ref=readme-horizon) |
 
 ### Figma Version
 
@@ -93,7 +92,7 @@ some advices for our users that want to report an issue:
 
 1. Make sure that you are using the latest version of the Horizon UI Dashbaord.
    Check the CHANGELOG from your dashboard on our
-   [CHANGE LOG File](https://github.com/horizon-ui/horizon-ui-chakra/blob/main/CHANGELOG.md?ref=readme-horizon).
+   [CHANGE LOG File](https://github.com/Full-Stack-IT-Developer/admin-panel-reactjs-horizon-ui/blob/main/CHANGELOG.md?ref=readme-horizon).
 2. Providing us reproducible steps for the issue will shorten the time it takes
    for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you
